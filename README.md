@@ -81,7 +81,7 @@ Here is an example of what using the program might look like:
 
 ## Bonus Features
 
-# Attempt these features only if you have completed the basic application.
+## Attempt these features only if you have completed the basic application.
 
 In no particular order, things to try:
 
