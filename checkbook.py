@@ -50,10 +50,10 @@ def record_deposit(bal):
         print("Invalid input. Please enter a valid amount.")
         return bal
 
-# save_balance function
+# Functin to save_balance
 def save_balance(bal):
     with open('balance.txt','w') as f:
-    #    f.write(float(bal)) 
+     
         f.write(str(bal))
 
 
@@ -84,7 +84,3 @@ while True:
             break
         else:
             print("Invalid choice. Please select a valid option.")
-
-
-
-
